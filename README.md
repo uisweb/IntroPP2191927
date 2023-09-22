@@ -1,4 +1,4 @@
 # Proyectos - Intro. Computación Paralela
-Ronald Alexis Arias Manrique
-Grupo: C1
+Ronald Alexis Arias Manrique.
+Grupo: C1.
 
