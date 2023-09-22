@@ -22,3 +22,9 @@ se accede al archivo y haciendo uso de la salida ./salida_Matrizomp obtenemos lo
 
 
 ![Time_Ejecution_ompMatrixMultiplication](https://github.com/uisweb/IntroPP2191927/assets/104944902/e0a42f59-961a-4fbd-b163-72598ccc9815)
+
+
+ Comparaciones de tiempos de ejecución
+
+ Una vez compiladas las dos soluciones secuencial y solución paralela obtenemos que el tiempo de ejecución para la primera es de 0.000264 segundos
+ mientras que para la segunda solucion nos toma un tiempo de 0.003933 segundos. 
