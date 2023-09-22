@@ -9,7 +9,8 @@ una vez creada la carpeta matriz se procede a crear un archivo .c el cual contie
 y el código de la solución secuencial usando la línea de comando gcc -Wall -fopenmp -std=c99 omp MatrixMultiplication.c -o salida_Matrizomp. 
 Luego accedemos al archivo mediante salida ./salida_Matriz y obtenemos los valores resultantes de la matriz. 
 
-![Time_Ejecution_MatrixMultiplication](https://github.com/uisweb/IntroPP2191927/assets/104944902/3b4fab1e-6fc5-4b59-adc2-8760bbf81674)
+
+![Time_Ejecution_MatrixMultiplication](https://github.com/uisweb/IntroPP2191927/assets/104944902/fae2ad6e-950c-464b-8dec-a3a9939db5dc)
 
 
 
