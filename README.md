@@ -1,1 +1,2 @@
-# IntroPP2191927
+# Proyectos - Intro. Computación Paralela
+
